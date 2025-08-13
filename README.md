@@ -7,11 +7,11 @@ The workflow includes data collection, preprocessing, exploratory data analysis 
 ## Project Structure
 The project is organized into separate Jupyter notebooks for each stage:
 
-Fashion project 
+Fashion project/
 ├── crawling/ # Web scraping notebooks
 ├── Data/ # Data cleaning and preprocessing
 ├── EDA/ # Exploratory Data Analysis
-├── Model/ # Model training and evaluation
+└── Model/ # Model training and evaluation
 
 ## Dataset
 - Initial size: **15,792 rows × 57 columns**  
