@@ -7,8 +7,7 @@ The workflow includes data collection, preprocessing, exploratory data analysis 
 ## Project Structure
 The project is organized into separate Jupyter notebooks for each stage:
 
-Fashion project copy/
-│
+Fashion project 
 ├── crawling/ # Web scraping notebooks
 ├── Data/ # Data cleaning and preprocessing
 ├── EDA/ # Exploratory Data Analysis
