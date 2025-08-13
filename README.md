@@ -12,7 +12,7 @@ Fashion project
 ├── Data/ # Data cleaning and preprocessing
 ├── EDA/ # Exploratory Data Analysis
 ├── Model/ # Model training and evaluation
-└── להצגה של הפרויקט.docx # Project presentation
+
 ## Dataset
 - Initial size: **15,792 rows × 57 columns**  
 - After cleaning: **13,796 rows × 27 columns**
